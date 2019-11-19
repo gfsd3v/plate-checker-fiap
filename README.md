@@ -4,7 +4,7 @@ PlateChecker is a react native app that I did for a college project where the us
 
 ### Tech
 
-HostGatos uses a number of open source projects to work properly:
+PlateChecker uses a number of open source projects to work properly:
 
 * ReactNative
 * OpenALPR
@@ -36,7 +36,7 @@ $ npx react-native run-android
 ```
 
 
-#### Running on real device
+### Running on real device
 
 To run on a real device please read the [ReactNative documentation](https://facebook.github.io/react-native/docs/running-on-device).
 
