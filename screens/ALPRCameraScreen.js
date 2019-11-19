@@ -71,7 +71,6 @@ class ALPRCameraScreen extends React.Component {
             style={styles.camera}
             aspect={this.state.camera.aspect}
             captureQuality={Camera.constants.CaptureQuality.medium}
-            country="eu"
             onPlateRecognized={this.onPlateRecognized}
             plateOutlineColor="#ff0000"
             showPlateOutline
